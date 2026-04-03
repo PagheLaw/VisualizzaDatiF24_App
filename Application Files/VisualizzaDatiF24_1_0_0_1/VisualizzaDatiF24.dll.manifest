@@ -116,6 +116,42 @@
       <dsig:DigestValue>BH5IqwWKeDodACHt6awjjhWO1D+iNooV/UzNj5IKtqE=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="runtimes\linux-x64\native\SQLite.Interop.dll" size="3160952">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YS54DxGn849JtFBLQa4z2/6KjT5wX2QyPmWpgelyzFE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\osx-x64\native\SQLite.Interop.dll" size="2284828">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>w0lYH17oGpP6kWxPMxFFErQEVK2oZsAwYgyo++YEU9k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x64\native\SQLite.Interop.dll" size="2005688">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ERGRbcMpoTvWJ7LNkMmyJj3pkj/Qu2BZxpxSMy82DDc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x86\native\SQLite.Interop.dll" size="1592504">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VTaTsVvaS793iL7gm4vTJf/k2xUWhvQyGUxY4VubTx4=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="SixLabors.Fonts.dll" size="1135616">
     <hash>
       <dsig:Transforms>
@@ -123,15 +159,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>4eLxB+fHj7hZ8bIzgxB6ElrNizp0cBQIUNqm9vbEXZ8=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="SQLite.Interop.dll" size="2005688">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ERGRbcMpoTvWJ7LNkMmyJj3pkj/Qu2BZxpxSMy82DDc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="System.Data.SQLite.dll" size="446136">
@@ -143,31 +170,31 @@
       <dsig:DigestValue>+j12eCcrEN+gvj2VnwrqOKWLdcrxu6BtZ4EhjO1IliA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="VisualizzaDatiF24.deps.json" size="6569">
+  <file name="VisualizzaDatiF24.deps.json" size="7130">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>oJn6UJ+NDUUhJY6pkNOrgpDkul3YSxA0BkD/g5Wc1KI=</dsig:DigestValue>
+      <dsig:DigestValue>h5MO957G4I5tDoqf+R9YYy8SRclGxwIWzwPE3JpDf98=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="VisualizzaDatiF24.dll" size="67584">
+  <file name="VisualizzaDatiF24.dll" size="69632">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>CZ9KBZiwQAwQcukmhhKHQX6fUNaYZ2nLj1mAu2h/4gY=</dsig:DigestValue>
+      <dsig:DigestValue>dn/KJwJVYpfORjsx9C+Wz9pd2QtiHdClEpmLts5rD6U=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="VisualizzaDatiF24.exe" size="161792">
+  <file name="VisualizzaDatiF24.exe" size="162304">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>UqKcPiRLZTH/faJlbGssh9FrNkB+udSDCJEOMudQsGM=</dsig:DigestValue>
+      <dsig:DigestValue>2lrgine3QTi3T3Nllnni4/8vauWr0Z++0i1f+xXbYBI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="VisualizzaDatiF24.runtimeconfig.json" size="519">
